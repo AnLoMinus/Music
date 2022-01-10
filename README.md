@@ -1,8 +1,6 @@
 <h1 align="center">
 
-Anlominus TOP Music
-
-My TOP Favorite Music !
+  TOP Music
 
 </h1>
 
