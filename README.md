@@ -4,7 +4,6 @@
 
 </h1>
 
-# TOP
 - [x] [HacKingPro](https://github.com/Anlominus/Music/blob/main/HacKingPro.md)
 
 ## English
