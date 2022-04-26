@@ -5,6 +5,7 @@
 </h1>
 
 - [x] [HacKingPro](https://github.com/Anlominus/Music/blob/main/HacKingPro.md)
+- [x] [Leon - HardCoreFightMix](https://www.youtube.com/playlist?list=PLRP5lGyGwJ92eXnubZSVG8g1rs0yNg1TX)
 
 ## English
 - [izzamuzzic - 2pac remixes (Mix)](https://www.youtube.com/watch?v=ZcunXhbCLrw&ab_channel=LighthouseYourSoul)
