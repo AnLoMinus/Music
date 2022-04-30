@@ -21,6 +21,8 @@
 
 - [MeVo HaDuDaim - pursuit mode || מבוא הדודאים - מצב חתירה](https://www.youtube.com/watch?v=AmXXlSRcBBU)
 
+- [כפיר צפריר דודא ונומי - תלחצו פליי](https://www.youtube.com/watch?v=iGCOdvrBRJM)
+
 ## Russian
 
 - [Miyagi & Эндшпиль feat. Truwer - No Reason (Official Audio)](https://www.youtube.com/watch?v=a1sch3cxciQ)
