@@ -30,6 +30,8 @@
 
 ## Russian
 
+- [JANAGA — Моя выгода](https://www.youtube.com/watch?v=qZ-d5b3bu7M)
+
 - [Miyagi & Эндшпиль feat. Truwer - No Reason (Official Audio)](https://www.youtube.com/watch?v=a1sch3cxciQ)
 
 - PlayList: [JANAGA - РАУНД 1](https://www.youtube.com/playlist?list=PLgeJWQjgwNBxgXW5HI9M00yUpow5NbODu)
