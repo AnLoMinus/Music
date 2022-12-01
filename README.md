@@ -8,9 +8,10 @@
 
 # [AnLoMinus](https://github.com/AnLoMinus)
 
-- [⚜️ AnLoMinus - Beats ⚜️](https://www.youtube.com/watch?v=RFQ6EKbJfBM&list=PLRP5lGyGwJ90_J090jO_XLR3eg-6Usbnb) 
-- [⚜️ AnLoMinus - Relax ⚜️](https://www.youtube.com/watch?v=qZ-d5b3bu7M&list=PLRP5lGyGwJ90ktWAUCgpUBMWzn1lbbIa7) 
-- [⚜️ AnLoMinus - HacKing ⚜️](https://www.youtube.com/watch?v=_daTfgc4u3k&list=PLRP5lGyGwJ90AD8nIkD-Umo3hQW_cLVwW) 
+- [x] [⚜️ AnLoMinus - Beats ⚜️](https://www.youtube.com/watch?v=RFQ6EKbJfBM&list=PLRP5lGyGwJ90_J090jO_XLR3eg-6Usbnb) 
+- [x] [⚜️ AnLoMinus - Relax ⚜️](https://www.youtube.com/watch?v=qZ-d5b3bu7M&list=PLRP5lGyGwJ90ktWAUCgpUBMWzn1lbbIa7) 
+- [x] [⚜️ AnLoMinus - HacKing ⚜️](https://www.youtube.com/watch?v=_daTfgc4u3k&list=PLRP5lGyGwJ90AD8nIkD-Umo3hQW_cLVwW) 
+- [x] [⚜️ AnLoMinus - HCFightMix ⚜️](https://www.youtube.com/playlist?list=PLRP5lGyGwJ92eXnubZSVG8g1rs0yNg1TX)
 
 ---
 
@@ -20,7 +21,6 @@
 ---
 
 - [x] [HacKingPro](https://github.com/Anlominus/Music/blob/main/HacKingPro.md)
-- [x] [Leon - HardCoreFightMix](https://www.youtube.com/playlist?list=PLRP5lGyGwJ92eXnubZSVG8g1rs0yNg1TX)
 - [X] [2 Hours Cyberpunk 2077 Mix | Darksynth / Dark Techno / Midtempo](https://www.youtube.com/watch?v=W62lE_nzwzU)
 
 
